@@ -1,0 +1,1 @@
+This is a readme file, contains all information for the repo, its standard practice to include one of these in your repo to explain to others what this repo does. Even if its a private repo its a good practice to include one anyway, can serve as a reminder to self.
